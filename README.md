@@ -11,7 +11,7 @@ Smart Shop is an e-commerce platform built with Java Spring Boot for the backend
 
 ## Tech Stack
 
-- **Backend**: Java 21, Spring Boot 3.3.4
+- **Backend**: Java 21, Spring Boot 3.3.0
 - **Frontend**: Angular
 - **Database**: MySQL
 - **Authentication**: JWT, OAuth2 (Google/Facebook)
